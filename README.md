@@ -6,7 +6,7 @@ Saya seorang pelajar / pembangun perisian yang baru mula meneroka dunia pengatur
 - 🔭 Saat ini saya sedang belajar: **HTML, CSS, JavaScript / Python** (Ubah mengikut kemahiran anda)
 - 🎯 Matlamat saya: **Membina projek web pertama saya**
 - 💬 Tanya saya tentang: **Perkara asas yang saya baru pelajari!**
-- 📫 Cara hubungi saya: **irfan@example.com** (Masukkan emel atau pautan LinkedIn anda)
+- 📫 Cara hubungi saya: **irfanhafiy.faris@gmail.com** (Masukkan emel atau pautan LinkedIn anda)
 
 ---
 
